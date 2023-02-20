@@ -1,0 +1,16 @@
+i  entrar en el modo de insercion
+esc entrar en el modo comando
+supr borrar un caracter
+x el caracter de borrado es el modo de retroceso
+u deshacer cambios
+ctrl r rehacer los cambios
+yy copiar una linea
+dd eliminar una linea
+p pegar el contenido del buffer
+/searchterm buscar y luego recorrer las coincidencias con n y N
+gg mover al principio del archivo
+G mover al final de un archivo
+:%s/foo/bar/gci Buscar y reemplazar todas las ocurrencias con confirmacion
+esc :w guardar cambios
+esc :wq guardar cambios y salir
+esc :q! forzar la salida de vim descartando cambios
