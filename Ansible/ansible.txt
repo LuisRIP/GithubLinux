@@ -1,0 +1,3 @@
+Es una plataforma para poder configurar y administrar ordenadores por administradores informaticos, es una herramienta open source que automatiza los procesos informaticospara preparar la infraestructura, gestionar configuraciones, implementar aplicaciones y organizar sistemas, entre otros procedimientos de administracion TI.
+
+Se conecta con recursos que se desea automatizar e implementa programas para ejecutar instrucciones que se llevarian a cabo de forma manual.
